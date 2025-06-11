@@ -14,6 +14,8 @@ credits: true
 
 ## About the Collection
 
+Here is some markdown text: **this is something in bold** and _here is something in italics_ and finally here is a [link](google.com) to another website. 
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
